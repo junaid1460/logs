@@ -12,6 +12,7 @@
  - [error no module named mysqldb,docker-python (Tue Jan 2 00:46:22 IST 2018)](files/MTUxNDgzNDE4MjM4MTU5NzY2NWVycm9yMTc2OTA=.md)
  - [install oh my zsh (Sat Feb 10 10:07:15 IST 2018)](files/MTUxODIzNzQzNTEwNjI1MjgxNWluc3RhbGwxNjcyNw==.md)
  - [python line profiling ( Ipython/Jupyter notebook) (Mon May 14 13:03:13 +0530 2018)](files/MTUyNjI4MzE5MzUxNzA0OTg3MnB5dGhvbjY3NTk=.md)
+ - [python parallel and fast code (Mon May 14 13:21:06 +0530 2018)](files/MTUyNjI4NDI2NjY1NDk3NzIxMHB5dGhvbjQ2MjE=.md)
 
 ### `License`
 MIT
