@@ -13,6 +13,7 @@
  - [install oh my zsh (Sat Feb 10 10:07:15 IST 2018)](files/MTUxODIzNzQzNTEwNjI1MjgxNWluc3RhbGwxNjcyNw==.md)
  - [python line profiling ( Ipython/Jupyter notebook) (Mon May 14 13:03:13 +0530 2018)](files/MTUyNjI4MzE5MzUxNzA0OTg3MnB5dGhvbjY3NTk=.md)
  - [python parallel and fast code (Mon May 14 13:21:06 +0530 2018)](files/MTUyNjI4NDI2NjY1NDk3NzIxMHB5dGhvbjQ2MjE=.md)
+ - [List data types of postgres table fields (Fri 26 Apr 2019 19:17:49 IST)](files/MTU1NjI4NjQ2OU5MaXN0NDU3NQ==.md)
 
 ### `License`
 MIT
